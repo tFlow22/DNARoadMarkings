@@ -1,0 +1,133 @@
+.contact6-container {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.contact6-max-width {
+  align-self: center;
+}
+.contact6-content1 {
+  width: 100%;
+  align-items: center;
+  margin-bottom: 48px;
+  justify-content: space-between;
+}
+.contact6-content2 {
+  gap: var(--dl-space-space-unit);
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: center;
+}
+.contact6-content3 {
+  gap: 24px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.contact6-content4 {
+  gap: var(--dl-space-space-unit);
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.contact6-contact-info1 {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.contact6-text12 {
+  align-self: flex-start;
+  text-align: center;
+}
+.contact6-content5 {
+  gap: var(--dl-space-space-unit);
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.contact6-contact-info2 {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.contact6-text13 {
+  align-self: flex-start;
+  text-align: center;
+}
+.contact6-content6 {
+  gap: var(--dl-space-space-unit);
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.contact6-contact-info3 {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.contact6-text15 {
+  align-self: flex-start;
+  text-align: center;
+}
+.contact6-content7 {
+  width: 100%;
+  align-items: flex-end;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.contact6-fragment1 {
+  display: contents;
+}
+.contact6-text16 {
+  display: inline-block;
+}
+.contact6-fragment2 {
+  display: contents;
+}
+.contact6-text17 {
+  display: inline-block;
+}
+.contact6-fragment3 {
+  display: contents;
+}
+.contact6-text18 {
+  display: inline-block;
+}
+.contact6-fragment4 {
+  display: contents;
+}
+.contact6-text19 {
+  display: inline-block;
+}
+.contact6-fragment5 {
+  display: contents;
+}
+.contact6-text20 {
+  display: inline-block;
+}
+@media(max-width: 991px) {
+  .contact6-content1 {
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .contact6-content7 {
+    position: relative;
+    align-items: center;
+    flex-direction: column;
+  }
+}
+@media(max-width: 767px) {
+  .contact6-content1 {
+    gap: 24px;
+    flex-direction: column;
+  }
+}

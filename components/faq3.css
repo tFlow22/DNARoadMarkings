@@ -1,0 +1,208 @@
+.faq3faq9 {
+  width: 100%;
+  height: auto;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.faq3-max-width {
+  gap: 48px;
+  display: flex;
+  align-self: center;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.faq3-section-title {
+  align-items: flex-start;
+}
+.faq3-row1 {
+  gap: 24px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.faq3-content2 {
+  gap: var(--dl-space-space-fourunits);
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.faq3-row2 {
+  gap: 24px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.faq3-content3 {
+  gap: var(--dl-space-space-fourunits);
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.faq3-row3 {
+  gap: 24px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.faq3-content4 {
+  gap: var(--dl-space-space-fourunits);
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.faq3-row4 {
+  gap: 24px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.faq3-content5 {
+  gap: var(--dl-space-space-fourunits);
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.faq3-content7 {
+  gap: var(--dl-space-space-unit);
+  display: flex;
+  align-self: stretch;
+  flex-direction: column;
+}
+.faq3-fragment10 {
+  display: contents;
+}
+.faq3-text13 {
+  display: inline-block;
+  flex-grow: 1;
+}
+.faq3-fragment11 {
+  display: contents;
+}
+.faq3-text14 {
+  display: inline-block;
+  text-align: center;
+}
+.faq3-fragment12 {
+  display: contents;
+}
+.faq3-text15 {
+  width: 500px;
+  display: inline-block;
+  font-style: normal;
+  font-weight: 600;
+}
+.faq3-fragment13 {
+  display: contents;
+}
+.faq3-text16 {
+  display: inline-block;
+  flex-grow: 1;
+}
+.faq3-fragment14 {
+  display: contents;
+}
+.faq3-text17 {
+  display: inline-block;
+}
+.faq3-fragment15 {
+  display: contents;
+}
+.faq3-text20 {
+  width: 500px;
+  display: inline-block;
+  font-style: normal;
+  font-weight: 600;
+}
+.faq3-fragment16 {
+  display: contents;
+}
+.faq3-text21 {
+  display: inline-block;
+}
+.faq3-fragment17 {
+  display: contents;
+}
+.faq3-text22 {
+  display: inline-block;
+  flex-grow: 1;
+}
+.faq3-fragment18 {
+  display: contents;
+}
+.faq3-text23 {
+  display: inline-block;
+  flex-grow: 1;
+}
+.faq3-fragment19 {
+  display: contents;
+}
+.faq3-text24 {
+  width: 500px;
+  display: inline-block;
+  font-style: normal;
+  font-weight: 600;
+}
+.faq3-fragment20 {
+  display: contents;
+}
+.faq3-text25 {
+  width: 500px;
+  display: inline-block;
+  font-style: normal;
+  font-weight: 600;
+}
+@media(max-width: 991px) {
+  .faq3-content2 {
+    gap: 24px;
+    flex-direction: column;
+  }
+  .faq3-content3 {
+    gap: 24px;
+    flex-direction: column;
+  }
+  .faq3-content4 {
+    gap: 24px;
+    flex-direction: column;
+  }
+  .faq3-content5 {
+    gap: 24px;
+    flex-direction: column;
+  }
+}
+@media(max-width: 767px) {
+  .faq3-text15 {
+    width: 100%;
+  }
+  .faq3-text20 {
+    width: 100%;
+  }
+  .faq3-text24 {
+    width: 100%;
+  }
+  .faq3-text25 {
+    width: 100%;
+  }
+}
+@media(max-width: 479px) {
+  .faq3-max-width {
+    gap: 24px;
+  }
+  .faq3-text17 {
+    text-align: center;
+  }
+  .faq3-text21 {
+    text-align: center;
+  }
+}

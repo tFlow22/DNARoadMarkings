@@ -1,0 +1,123 @@
+.contact5-container {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.contact5-max-width {
+  align-self: center;
+}
+.contact5-section-title {
+  width: 100%;
+  margin-bottom: 48px;
+}
+.contact5-content1 {
+  gap: 24px;
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.contact5-content2 {
+  width: 100%;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.contact5-content3 {
+  gap: 24px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.contact5-content4 {
+  gap: 16px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.contact5-icon1 {
+  width: 84px;
+  height: 123px;
+}
+.contact5-contact-info1 {
+  gap: var(--dl-space-space-unit);
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.contact5-text1 {
+  align-self: flex-start;
+  text-align: center;
+}
+.contact5-content5 {
+  gap: 16px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.contact5-icon3 {
+  width: 82px;
+  height: 125px;
+}
+.contact5-contact-info2 {
+  gap: var(--dl-space-space-unit);
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.contact5-text2 {
+  align-self: flex-start;
+  text-align: center;
+}
+.contact5-content6 {
+  gap: 16px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.contact5-icon5 {
+  width: 86px;
+  height: 122px;
+}
+.contact5-contact-info3 {
+  gap: var(--dl-space-space-unit);
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.contact5-image {
+  max-width: 767px;
+}
+.contact5-fragment1 {
+  display: contents;
+}
+.contact5-text5 {
+  display: inline-block;
+}
+.contact5-fragment2 {
+  display: contents;
+}
+.contact5-text6 {
+  display: inline-block;
+}
+.contact5-fragment3 {
+  display: contents;
+}
+.contact5-text7 {
+  display: inline-block;
+}
+@media(max-width: 991px) {
+  .contact5-content2 {
+    position: relative;
+    align-items: flex-start;
+    flex-direction: column;
+  }
+}
